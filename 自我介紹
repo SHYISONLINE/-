@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>
+		自我介紹
+	</title>
+</head>
+<body>
+<h1> 蘇桓潁</h1>
+<p><i>↓這是< hr ></i>←這是< i ></p>
+<hr>
+<ul>
+<h4>
+ <li><p style="color:dodgerblue;">性別:男</p>
+ <li><p style="color:indianred;">生日:2003.8.6/獅子座</p>
+ <li><p style="color:goldenrod;">興趣:玩TRPG/遊戲/看書</p>
+ </ul>
+<img src="C:\Users\huany\OneDrive\桌面\T\貼圖包\frog.gif" width="300 px" height="300 px">
+
+<h1 style="color:darkgreen;"><i>呱</i></h1>
+<img src="C:\Users\huany\OneDrive\桌面\T\貼圖包\frog.gif" width="300 px" height="300 px">
+<img src="C:\Users\huany\OneDrive\桌面\T\貼圖包\frog.gif" width="300 px" height="300 px">
+<h1 style="color:darkgreen;"><i>呱呱</i></h1>
+<img src="C:\Users\huany\OneDrive\圖片\相機相簿\我.png" width="30%" height="30%">
+<p style="color:cyan;"><font size="6"><b>我的課表↓</b></font></p>
+<p>
+</body>
+</html>
